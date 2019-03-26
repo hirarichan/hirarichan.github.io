@@ -1,13 +1,9 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
+  hirarichan:
+    image_url: /images/actors/hirarichan.png
+    name: ヒラリチャン
+    url: https://twitter.com/hiragram
+author: ヒラリチャン
 description: ヒラリチャンがしゃべるpodcast
 description_long: ボイチェン越しにしゃべるpodcast
 email: hello+podcast@hiragram.app
@@ -30,4 +26,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: ヒラリチャンの音声
-url: http://example.com
+url: https://hirarichan.github.io
